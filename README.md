@@ -12,4 +12,5 @@
 ## 已转换翻译源
 
  - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature_rss.xml](rss/Nature_rss.xml)
+ - source002 [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) -> [Nature_CN.rss](rss/Nature_CN.rss)
+ - source003 [https://rpgcodex.net/rss.xml](https://rpgcodex.net/rss.xml) -> [Rpgcodex_CN.rss](rss/Rpgcodex_CN.rss)
